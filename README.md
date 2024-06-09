@@ -1,0 +1,2 @@
+## Lane detection task
+This code package is a very simple lane detection ML model (convolutional neural network) made using PyTorch. The data was acquired from the following video: https://www.youtube.com/watch?v=nABR88G_2cE, and was modified by myself (to create the labels), which can be seen in lane_detection.ipynb. In lane_dec.ipynb, we preprocess the data, make and train our model, test it, and take a snippet of the video and overlay the output onto this (in lane_marked1.mp4). 
